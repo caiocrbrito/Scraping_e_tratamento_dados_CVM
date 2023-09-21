@@ -1,5 +1,0 @@
-https://dados.cvm.gov.br/dataset/fi-cad - setembro 21, 2023, 08:00 (BRT)
-https://dados.cvm.gov.br/dataset/cia_aberta-cad - setembro 21, 2023, 08:00 (BRT)
-https://dados.cvm.gov.br/dataset/fii-doc-inf_trimestral - setembro 18, 2023, 08:01 (BRT)
-https://dados.cvm.gov.br/dataset/cia_aberta-doc-itr - setembro 18, 2023, 08:01 (BRT)
-https://dados.cvm.gov.br/dataset/fidc-doc-inf_mensal - setembro 18, 2023, 08:00 (BRT)
